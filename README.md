@@ -5,3 +5,5 @@ estado del proyecto: Mi primer proyecto
 para ejecutar el juego:
 
 puedes elegir el navegador
+
+Juego del número secreto 2
